@@ -6,4 +6,5 @@ modify 2
 =======
 modify from branch test1 
 modify from others
->>>>>>> bc1022ae545a887140eb3e484b5c8cb9e46f34f0
+>>>>>>ssss> bc1022ae545a887140eb3e484b5c8cb9e46f34f0
+single dog,single dog,single all day>_<
